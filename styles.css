@@ -1,0 +1,28 @@
+h2 {
+  color: black;
+  text-decoration: underline;
+  text-shadow: 2px 2px lightgreen;
+}
+
+body {
+  background-color: lightpink;
+}
+
+p {
+  color: black;
+  font-family: 'Staatliches', cursive;
+  text-align:left;
+  font-size: 30;
+}
+
+img{
+  border-radius: 20px;
+}
+
+hr {
+  border-color: black;
+}
+
+hr {
+  border-color: lightgreen;
+}
